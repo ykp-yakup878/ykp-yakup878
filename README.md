@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ykp-yakup878
-- :star: I Believe
-> I Believe
+- :star: **I Believe**
 - 👀 I’m Interested In Web Developing
 - 🌱 I’m Currently Learning Middle and Advanced level "C#"
 - 📫 How To Reach Me -> [Instagram](https://www.instagram.com/ykp_yakup878/)
