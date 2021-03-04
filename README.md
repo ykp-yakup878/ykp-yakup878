@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ykp-yakup878
 - 👀 I’m Interested In Web Developing
-- 🌱 I’m Currently Learning Middle and Advanced level "C#"
+- 🌱 I’m Currently Learning Middle and Advanced level "C#" + "Angular"
 - 📫 How To Reach Me -> [Instagram](https://www.instagram.com/ykp_yakup878/)
 - :star: **I Believe**
 <!--- 💞️ I’m looking to collaborate on ...-->
